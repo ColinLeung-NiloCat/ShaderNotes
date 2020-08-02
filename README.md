@@ -1,2 +1,0 @@
-# RandomNotes
-upload random notes
