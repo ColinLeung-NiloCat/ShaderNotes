@@ -1,8 +1,9 @@
-# PowerVR shader cycle count
-useful links:
-- http://cdn.imgtec.com/sdk-documentation/PowerVR+Low+level+GLSL+Optimization.pdf?fbclid=IwAR08O5o4pAJcgCGbB4nMf13vG-OeAm7xGkwzmNDSqIUBg_21w6JcYt0q3MY
+# Shader assembly / low level optimization
 - http://www.humus.name/Articles/Persson_LowLevelThinking.pdf
 - http://www.humus.name/Articles/Persson_LowlevelShaderOptimization.pdf
+
+# PowerVR shader cycle count
+- http://cdn.imgtec.com/sdk-documentation/PowerVR+Low+level+GLSL+Optimization.pdf?fbclid=IwAR08O5o4pAJcgCGbB4nMf13vG-OeAm7xGkwzmNDSqIUBg_21w6JcYt0q3MY
 
 # Unity C#/shader Matrix
 useful links:
